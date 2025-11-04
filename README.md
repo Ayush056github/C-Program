@@ -1,2 +1,2 @@
-# C-Program
+# Programs
 Practice Only 
